@@ -26,6 +26,11 @@ retun value 2 -> Failed to Open File
 
 retun value 3 -> Failed to Open Uart Port
  
+STM32 bootloader
+__
+
+https://github.com/RTX93/STM32F030RCT6_BL.git
+
 =======
 # STM32_Firmware_uploader_linux
 >>>>>>> dbfc8ed1cf6a1cdb2378f49f45e16f95908c085b
