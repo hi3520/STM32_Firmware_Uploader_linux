@@ -1,4 +1,4 @@
-#Custom OTA Firmware Update Program with STM32 MCU via UART Interface
+# Custom OTA Firmware Update Program with STM32 MCU via UART Interface
 
 This is a program that is designed to update the firmware of an STM32 microcontroller unit (MCU) using a Linux platform. It is a customized OTA, which means that it can perform over-the-air updates. To use it, you need to have a firmware file for the STM32 MCU in the .bin format. The program reads this file and updates the firmware via the UART interface.
 
